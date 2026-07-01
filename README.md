@@ -38,7 +38,7 @@ With the default conditions, the program must generate the following figures: </
 <div align="center"><img align= "center" width="750" height="717" alt="PORTADA README" src="https://github.com/user-attachments/assets/569eeee2-3597-49c2-b6c2-b6ef49b6aced" /> </div>
 AÑADIR EL RESTO!!!!!!
 <h1>Future Improvements</h1>
-Future versions of the simulation will include along its improvements:
+The code is currently in development.Future versions of the simulation will include along its improvements:
 <ul>
   <li>J2 and further gravitational perturbations</li>
   <li> Real-time ISS position comparison</li>
