@@ -25,7 +25,7 @@ The default simulation parameters are:
   <li>Time step: 1 s</li>
   <li>ISS mass: 420000 kg</li>
   <li>Initial time: 0 s</li>
-  <li>Time of simulation: 5400 s</li>
+  <li>Time of simulation: 5580 s</li>
 </ul>
 <h1>Requirements</h1>
 <li>MATLAB R2020a or later (no additional toolboxes required).</li>
@@ -35,8 +35,13 @@ The default simulation parameters are:
 <li>Run the simulation. The program will ask if it has to generate the MP4 video and its required speed</li></ol>
 <h1>Outputs</h1>
 With the default conditions, the program must generate the following figures: </br></br>
-<div align="center"><img align= "center" width="750" height="717" alt="PORTADA README" src="https://github.com/user-attachments/assets/569eeee2-3597-49c2-b6c2-b6ef49b6aced" /> </div>
-AÑADIR EL RESTO!!!!!!
+<div align="center"><img width="750" height="717" alt="PORTADA README" src="https://github.com/user-attachments/assets/569eeee2-3597-49c2-b6c2-b6ef49b6aced" /> </div> </br>
+<div align="center"><img width="1084" height="713" alt="GroundTrack" src="https://github.com/user-attachments/assets/5f1508d0-fbc9-400c-8493-37bf7e475921" />
+</div>
+</br>
+<div align="center"><img width="867" height="605" alt="Captura de pantalla" src="https://github.com/user-attachments/assets/8f818d6e-5054-449b-878d-06a8a122fc83" />
+</div>
+<p align="center">Image taken from the generated video.</p>
 <h1>Future Improvements</h1>
 The code is currently in development.Future versions of the simulation will include along its improvements:
 <ul>
@@ -50,6 +55,9 @@ The code is currently in development.Future versions of the simulation will incl
 <ul>
   <li>Curtis, H. D. Orbital Mechanics for Engineering Students</li>
   <li>MathWorks. MATLAB®. Natick, Massachusetts: The MathWorks Inc. </br>https://www.mathworks.com/products/matlab.html</li>
+</br>
+  The simulated ground track was qualitatively compared with publicly available ISS tracking information provided by NASA:
+<li>NASA. <b>Spot the Station.</b> https://www.nasa.gov/spot-the-station/</li>
 </ul>
 <h1>License</h1>
 This project is licensed under the MIT License (see more in the LICENSE file) and it is intended for educational and research purposes. Feel free to modify and improve the code!
